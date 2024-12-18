@@ -1,0 +1,3 @@
+/Users/ranicachawla/Desktop/ics4uo-summative/build/CMakeFiles/MyProject.dir
+/Users/ranicachawla/Desktop/ics4uo-summative/build/CMakeFiles/edit_cache.dir
+/Users/ranicachawla/Desktop/ics4uo-summative/build/CMakeFiles/rebuild_cache.dir
